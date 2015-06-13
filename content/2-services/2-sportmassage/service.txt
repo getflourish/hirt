@@ -1,0 +1,15 @@
+Title: Sportmassage
+
+----
+
+Price: 100
+
+----
+
+Text: 
+
+Mit der Sportmassage wird die Leistungsbereitschaft der Muskulatur erhöht und nach einem harten Einsatz die Regeneration angeregt. Die Muskelpartien werden je nach Sportart gezielt behandelt.
+
+Sportmassage ist vor allem für aktive Sportlerinnen und Sportler geeignet, welche sich in Form halten oder nach einem Wettkampf oder langen Trainingseinheiten möglichst rasch regenerieren wollen.
+
+(image: sportmassage.png)
