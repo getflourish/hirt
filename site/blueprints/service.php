@@ -12,5 +12,8 @@ fields:
     label: Text
     type:  textarea
   price:
-    label: Price
+    label: Preis
+    type: text
+  duration:
+    label: Dauer
     type: text

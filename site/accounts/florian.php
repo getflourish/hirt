@@ -7,7 +7,9 @@ password: >
 language: de
 role: admin
 history:
-  - about
-  - services/sportmassage
-  - services
-  - services/klassische-massage
+  - services/hot-stone-massage
+  - services/bindegewebemassage
+  - services/triggerpunktbehandlung
+  - >
+    services/sanfte-wirbeltherapie-nach-dorn-smt-nach-dr-graulich
+  - services/akupunktmassage

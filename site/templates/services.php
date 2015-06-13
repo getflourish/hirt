@@ -8,7 +8,7 @@
     </h2>
 
     <ul class="teaser cf">
-      <?php foreach(page('services')->children()->visible()->limit(3) as $service): ?>
+      <?php foreach(page('services')->children()->visible() as $service): ?>
       <li>
         <?php if($image = $service->images()->sortBy('sort', 'asc')->first()): ?>
         <a href="<?php echo $service->url() ?>">
