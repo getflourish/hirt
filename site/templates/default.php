@@ -1,8 +1,7 @@
 <?php snippet('header') ?>
 
+	<?php snippet("hero", array("image" => "header.jpg")) ?>
   <main class="main" role="main">
-
-  <?php snippet("hero", array("image" => "header.jpg")) ?>
 
     <div class="text">
       <h1><?php echo $page->title()->html() ?></h1>

@@ -3,5 +3,7 @@
     <?php $header_image = $page->image($image) ?>
 
     <!-- display image -->
-    <img src="<?php echo $header_image->url()?>" alt="">
+    <div class="hero" style="background-image: url(<?php echo $header_image->url()?>)">
+		<h1>Hirt Massagen</h1>
+    </div>
 </div>
